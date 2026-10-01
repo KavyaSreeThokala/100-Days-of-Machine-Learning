@@ -87,6 +87,7 @@ x = [
 Shape:
 
 (2, 2, 2)
+
 🖼️ Tensors in Images
 
 Images are commonly represented using tensors.
@@ -124,6 +125,7 @@ This represents:
 32 images
 224 × 224 pixels
 3 color channels
+
 🤖 Why are Tensors Important in Deep Learning?
 
 Deep learning models work with numerical data.
@@ -174,6 +176,7 @@ GPU
 Example:
 
 x.device
+
 🧠 Tensor vs Array
 
 A NumPy array and a tensor can look very similar.
@@ -191,6 +194,7 @@ PyTorch and TensorFlow use tensors extensively.
 shape tells us the size of each dimension.
 ndim tells us the number of dimensions.
 Tensors can be processed on CPUs and GPUs.
+
 💻 Practical Work
 
 I practiced creating tensors using:
